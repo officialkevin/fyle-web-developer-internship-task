@@ -78,28 +78,28 @@ opacity: 1;
 .carouselimage-1 {
     width: 370px;
     height: 526px;
-    background: transparent url('/images/carouselimages/1/1.png') 0% 0% no-repeat padding-box;
+    background: transparent url('images/carouselimages/1/1.png') 0% 0% no-repeat padding-box;
     opacity: 1;
 }
 
 .carouselimage-2 {
     width: 370px;
     height: 526px;
-    background: transparent url('/images/carouselimages/2/2.png') 0% 0% no-repeat padding-box;
+    background: transparent url('images/carouselimages/2/2.png') 0% 0% no-repeat padding-box;
     opacity: 1;
 }
 
 .carouselimage-3 {
     width: 370px;
     height: 526px;
-    background: transparent url('/images/carouselimages/1/1.png') 0% 0% no-repeat padding-box;
+    background: transparent url('images/carouselimages/1/1.png') 0% 0% no-repeat padding-box;
     opacity: 1;
 }
 
 .carouselimage-4 {
     width: 370px;
     height: 526px;
-    background: transparent url('/images/carouselimages/3/3.png') 0% 0% no-repeat padding-box;
+    background: transparent url('images/carouselimages/3/3.png') 0% 0% no-repeat padding-box;
     opacity: 1;
 }
 
@@ -183,7 +183,7 @@ text-align: center;
      .arrow {
         display: inline-block;
         /* margin-left: 10px; */
-        background-image: url('/images/carouselimages/arrow.svg');
+        background-image: url('images/carouselimages/arrow.svg');
         width: 37px;
 height: 10px;
         transition: transform 0.2s;
@@ -220,7 +220,7 @@ height: 10px;
      width: 10px; 
      height: 10px;  
     
-    background-image: url("/images/carouselimages/carousel-navigation-button-images/2/2.png");
+    background-image: url("images/carouselimages/carouselnavigationbuttonimages/2/2.png");
 
     background-size: cover !important;
     background-position: center !important;

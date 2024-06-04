@@ -58,13 +58,13 @@ $(document).ready(function () {
 
 
     $('.owl-dot').css({
-    'background-image': 'url("/images/carouselimages/carousel-navigation-button-images/2/2.png")',
+    'background-image': 'url("images/carouselimages/carousel-navigation-button-images/2/2.png")',
     'width': '10px',
         'height': '10px'
 });
 
 $('.owl-dot.active').css({
-        'background-image': 'url("/images/carouselimages/carousel-navigation-button-images/1/1@2x.png")',
+        'background-image': 'url("images/carouselimages/carousel-navigation-button-images/1/1@2x.png")',
         'background-size': 'cover',
         'background-position': 'center',
         'width':'30px',
@@ -77,7 +77,7 @@ $('.owl-dot.active').css({
     owl.on('changed.owl.carousel', function(event) {
     // Remove background image from all dots
     $('.owl-dot').css({
-        'background-image': 'url("/images/carouselimages/carousel-navigation-button-images/2/2.png")',
+        'background-image': 'url("images/carouselimages/carousel-navigation-button-images/2/2.png")',
         'width': '8px',
         'height': '8px'
     });
@@ -90,7 +90,7 @@ $('.owl-dot.active').css({
 
     // Add background image to the active dot
     $('.owl-dot.active').css({
-        'background-image': 'url("/images/carouselimages/carousel-navigation-button-images/1/1@2x.png")',
+        'background-image': 'url("images/carouselimages/carousel-navigation-button-images/1/1@2x.png")',
         'background-size': 'cover',
         'background-position': 'center',
         'width':'30px',
@@ -117,7 +117,7 @@ $(document).on('click', '.owl-dot.active', function() {
 
 
         $('.owl-dot.active').css({
-        'background-image': 'url("/images/carouselimages/carousel-navigation-button-images/1/1@2x.png")',
+        'background-image': 'url("images/carouselimages/carousel-navigation-button-images/1/1@2x.png")',
         'background-size': 'cover',
         'background-position': 'center',
         'width':'30px',
