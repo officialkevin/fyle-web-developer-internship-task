@@ -179,7 +179,7 @@ opacity: 1;
 left: 490px;
 width: 39px;
 height: 34px;
-background: transparent url('/images/expertsgrowthimages/heart\ \(2\).svg') 0% 0% no-repeat padding-box;
+background: transparent url('images/expertsgrowthimages/heart.svg') 0% 0% no-repeat padding-box;
 opacity: 1;
 
 
@@ -191,7 +191,7 @@ position: absolute;
 left: 792px;
 width: 36px;
 height: 36px;
-background: transparent url('/images/expertsgrowthimages/clock\ \(3\).svg') 0% 0% no-repeat padding-box;
+background: transparent url('images/expertsgrowthimages/clock.svg') 0% 0% no-repeat padding-box;
 opacity: 1;
 }
 
@@ -202,7 +202,7 @@ opacity: 1;
     width: 35px;
     height: 35px;
     /* UI Properties */
-    background: transparent url('/images/expertsgrowthimages/Path\ 4402.svg') 0% 0% no-repeat padding-box;
+    background: transparent url('images/expertsgrowthimages/path4402.svg') 0% 0% no-repeat padding-box;
     opacity: 1;
 
 }
@@ -213,7 +213,7 @@ opacity: 1;
 left: 1392px;
 width: 37px;
 height: 30px;
-background: transparent url('/images/expertsgrowthimages/Path\ 4406.svg') 0% 0% no-repeat padding-box;
+background: transparent url('images/expertsgrowthimages/path4406.svg') 0% 0% no-repeat padding-box;
 opacity: 1;
 
 
