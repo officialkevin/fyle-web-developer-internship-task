@@ -1,0 +1,168 @@
+
+/* OUR PROJECT section
+ */
+ .ourprojectimage-1{
+    position: absolute;
+        top: 2718px;
+    left: 375px;
+    width: 770px;
+    height: 567px;
+    background: transparent url('images/whywearebestimages/image/image.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    }
+    
+    
+    
+     .p17{
+        position: absolute;
+        top: 2549px;
+    left: 874px;
+    width: 172px;
+    height: 24px;
+    text-align: center;
+    font: normal normal 600 24px/26px Cormorant SC;
+    letter-spacing: 0px;
+    color: #FF3147;
+    text-transform: uppercase;
+    opacity: 1;
+     }
+    
+    
+     .p18{
+        position: absolute;
+        top: 2613px;
+    left: 746px;
+    width: 428px;
+    height: 45px;
+    text-align: center;
+    font: normal normal bold 45px/65px Cormorant SC;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: uppercase;
+    opacity: 1;
+     }
+    
+    
+     .p19{
+        position: absolute;
+        /* Layout Properties */
+    top: 2752px;
+    left: 1205px;
+    width: 293px;
+    height: 28px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 20px/80px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    
+     }
+    
+     .p20{
+        position: absolute;
+        top: 2795px;
+    left: 1205px;
+    width: 293px;
+    height: 79px;
+    text-align: left;
+    font: normal normal normal 16px/28px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+        
+     }
+    
+     .p21{
+        position: absolute;
+        /* Layout Properties */
+    top: 2941px;
+    left: 1205px;
+    width: 248px;
+    height: 28px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 20px/80px Poppins;
+    letter-spacing: 0px;
+    color:black;
+    opacity: 1;
+        
+     }
+    
+     .p22{
+        position: absolute;
+        top: 2984px;
+    left: 1205px;
+    width: 293px;
+    height: 79px;
+    text-align: left;
+    font: normal normal normal 16px/28px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+        
+     }
+    
+     .p23{
+        position: absolute;
+    
+        top: 3130px;
+    left: 1205px;
+    width: 293px;
+    height: 28px;
+    text-align: left;
+    font: normal normal medium 20px/80px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+        
+     }
+    
+     .p24{
+    
+        position: absolute;
+        top: 3173px;
+    left: 1205px;
+    width: 293px;
+    height: 79px;
+    text-align: left;
+    font: normal normal normal 16px/28px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+        
+     }
+    
+    
+    
+     .ourprojectrightsection-1{
+    position: absolute;
+        top: 2718px;
+        left: 1175px;
+        width: 370px;
+        height: 189px;
+        background: #F6F6F6 0% 0% no-repeat padding-box;
+        opacity: 1;
+     }
+    
+     .ourprojectrightsection-2{
+        position: absolute;
+        top: 2907px;
+    left: 1175px;
+    width: 370px;
+    height: 189px;
+    background: #FF3147 0% 0% no-repeat padding-box;
+    opacity: 1;
+     }
+    
+    
+    
+     .ourprojectrightsection-3{
+        position: absolute;
+        top: 3096px;
+    left: 1175px;
+    width: 370px;
+    height: 189px;
+    background: #F6F6F6 0% 0% no-repeat padding-box;
+    opacity: 1;
+     }

@@ -1,0 +1,201 @@
+
+  
+
+.p7{
+    /* Layout Properties */
+    position: absolute;
+    top: 2067px;
+    left: 857px;
+    width: 206px;
+    height: 24px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 600 24px/26px Cormorant SC;
+    letter-spacing: 0px;
+    color: #FF3147;
+    opacity: 1;
+    
+    }
+    
+    
+    .p8{
+        position: absolute;
+        top: 2131px;
+        left: 746px;
+        width: 428px;
+        height: 45px;
+        text-align: center;
+        font: normal normal bold 45px/65px Cormorant SC;
+        letter-spacing: 0px;
+        color: #000000;
+        text-transform: uppercase;
+        opacity: 1;
+    }
+    
+    
+    .p9{
+        position: absolute;
+        top: 2331px;
+    left: 375px;
+    width: 243px;
+    height: 28px;
+    text-align: left;
+    font: normal normal medium 20px/80px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    
+    
+    }
+    
+    .p10{
+        position: absolute;
+        top: 2374px;
+    left: 375px;
+    width: 256px;
+    height: 75px;
+    text-align: left;
+    font: normal normal normal 16px/26px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    
+    }
+    
+    .p11{
+        position: absolute;
+        top: 2331px;
+    left: 680px;
+    width: 182px;
+    height: 28px;
+    text-align: left;
+    font: normal normal medium 20px/80px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    
+    }
+    
+    .p12{
+        position: absolute;
+        top: 2374px;
+    left: 680px;
+    width: 256px;
+    height: 75px;
+    text-align: left;
+    font: normal normal normal 16px/26px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    
+    }
+    
+    .p13{
+        position: absolute;
+        /* Layout Properties */
+    top: 2331px;
+    left: 984px;
+    width: 175px;
+    height: 28px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 20px/80px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    
+    }
+    
+    .p14{
+        position: absolute;
+        top: 2374px;
+    left: 984px;
+    width: 256px;
+    height: 75px;
+    text-align: left;
+    font: normal normal normal 16px/26px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    
+    }
+    
+    .p15{
+        position: absolute;
+        top: 2331px;
+    left: 1289px;
+    width: 248px;
+    height: 28px;
+    text-align: left;
+    font: normal normal medium 20px/80px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    
+    }
+    
+    .p16{
+        position: absolute;
+        top: 2374px;
+    left: 1289px;
+    width: 256px;
+    height: 75px;
+    text-align: left;
+    font: normal normal normal 16px/26px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    
+    }
+    
+    
+    
+    
+    .whywearethebestimage-1{
+        position: absolute;
+        top: 2239px;
+    left: 375px;
+    width: 72px;
+    height: 72px;
+    background: transparent url('images/whywearebestimages/1/1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    }
+    
+    .whywearethebestimage-2{
+        position: absolute;
+        top: 2246px;
+    left: 680px;
+    width: 70px;
+    height: 65px;
+    background: transparent url('images/whywearebestimages/2/2.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+    }
+    
+    
+    .whywearethebestimage-3{
+        position: absolute;
+        top: 2236px;
+    left: 984px;
+    width: 68px;
+    height: 75px;
+    /* UI Properties */
+    background: transparent url('images/whywearebestimages/3/3.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+        
+    }
+    
+    .whywearethebestimage-4{
+        position: absolute;
+        top: 2241px;
+    left: 1289px;
+    width: 70px;
+    height: 70px;
+    /* UI Properties */
+    background: transparent url('images/whywearebestimages/4/4.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+        
+    }
+    
+    

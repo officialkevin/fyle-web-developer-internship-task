@@ -1,0 +1,93 @@
+
+/* CLIENT FEEDBACK SECTION */
+
+.p31{
+    position: absolute;
+        top: 4107px;
+    left: 839px;
+    width: 242px;
+    height: 24px;
+    text-align: center;
+    font: normal normal 600 24px/26px Cormorant SC;
+    letter-spacing: 0px;
+    color: #FF3147;
+    text-transform: uppercase;
+    opacity: 1;
+    
+    }
+    
+    
+    .p32{
+        position: absolute;
+    
+        /* Layout Properties */
+    top: 4171px;
+    left: 661px;
+    width: 598px;
+    height: 45px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal bold 45px/65px Cormorant SC;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: uppercase;
+    opacity: 1;
+    
+    }
+    
+    
+    .p33{
+    position: absolute;
+        top: 4292px;
+    left: 554px;
+    width: 831px;
+    height: 62px;
+    text-align: left;
+    font: normal normal normal 20px/34px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    
+    }
+    
+    
+    .p34{
+    position: absolute;
+        top: 4378px;
+        left: 554px;
+        width: 159px;
+        height: 28px;
+        text-align: left;
+        font: normal normal bold 20px/34px Poppins;
+        letter-spacing: 0px;
+        color: #FF3147;
+        opacity: 1;
+    
+    }
+    
+    .p35{
+    
+        position: absolute;
+        top: 4378px;
+    left: 718px;
+    width: 338px;
+    height: 28px;
+    text-align: left;
+    font: normal normal 300 20px/34px Poppins;
+    letter-spacing: 0px;
+    color: #808080;
+    opacity: 1;
+    
+    }
+    
+    .clientfeedbackimage{
+    position: absolute;
+        top: 4276px;
+    left: 535px;
+    width: 64px;
+    height: 45px;
+    background: transparent url('images/Quotemarks-left/Quotemarks-left.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+    }
+    

@@ -1,0 +1,255 @@
+
+
+
+
+.section2 {
+    position: absolute;
+    top: 937px;
+    left: -4px;
+    width: 1920px;
+    height: 1030px;
+    background: #FAFAFA no-repeat padding-box;
+    opacity: 1;
+}
+
+
+
+ .p4 {
+    position: absolute;
+    top: 1037px;
+    left: 373px;
+    width: 156px;
+    height: 24px;
+    text-align: left;
+    font-family: 'Cormorant SC', serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0px;
+    color: #FF3147;
+    opacity: 1;
+}
+
+.p5 {
+    position: absolute;
+  /* Layout Properties */
+top: 1101px;
+left: 373px;
+width: 442px;
+height: 110px;
+/* UI Properties */
+text-align: left;
+font: normal normal bold 45px/65px Cormorant SC;
+letter-spacing: 0px;
+color: #000000;
+text-transform: uppercase;
+opacity: 1;
+}
+
+.p6{
+    position: absolute;
+    top: 1114px;
+left: 960px;
+width: 584px;
+height: 83px;
+/* UI Properties */
+text-align: left;
+font: normal normal normal 16px/30px Poppins;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+
+}
+
+
+
+
+
+
+  
+ 
+.carousel .owl-item div {
+    
+    width: 370px;
+    height: 526px;
+
+}
+
+.carouselimage-1 {
+    width: 370px;
+    height: 526px;
+    background: transparent url('images/carouselimages/1/1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.carouselimage-2 {
+    width: 370px;
+    height: 526px;
+    background: transparent url('images/carouselimages/2/2.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.carouselimage-3 {
+    width: 370px;
+    height: 526px;
+    background: transparent url('images/carouselimages/1/1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.carouselimage-4 {
+    width: 370px;
+    height: 526px;
+    background: transparent url('images/carouselimages/3/3.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+
+.carouselinternalcomponent{
+    display: none;
+    background: #FF3147 0% 0% no-repeat padding-box;
+    }
+    
+    .carouselinternalcomponent img{
+       
+       
+        /* left: 1175px; */
+        position: absolute;
+        top:116px;
+        width: 57px;
+        height: 57px;
+      
+    }
+
+    .carouselinternalcomponentp-1{
+        
+        position: relative;
+        top: 216px;
+        left: 64px;
+        text-align: center;
+font: normal normal 600 24px/26px Cormorant SC;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+width: 242px;
+height: 24px;
+    }
+
+
+    .carouselinternalcomponentp-2{
+        position: relative;
+        top: 254.58px;
+left: 24px;
+width: 320px;
+height: 54px;
+/* UI Properties */
+text-align: center;
+font: normal normal normal 16px/30px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+
+    }
+
+
+  
+    .button {
+        display: inline-block;
+        color: #FF4F5A;
+        text-decoration: none;
+        font-size: 18px;
+        font-weight: bold;
+        border-radius: 8px;
+        border: none;
+        cursor: pointer;
+        transition: transform 0.2s;
+
+        position: relative;
+        top: 300px;
+left: 93px;
+width: 185px;
+height: 50px;
+/* UI Properties */
+background: #F4F4F4 0% 0% no-repeat padding-box;
+border-radius: 2px;
+opacity: 1;
+text-align: center;
+    }
+
+   
+
+     .arrow {
+        display: inline-block;
+        /* margin-left: 10px; */
+        background-image: url('images/carouselimages/arrow.svg');
+        width: 37px;
+height: 10px;
+        transition: transform 0.2s;
+    }
+
+
+
+
+
+
+
+
+.owl-item{
+    width: auto !important;
+}
+
+.carousel{
+   position: relative;
+    top: 600px;
+    left: 375px;
+    width: 1000px !important ;
+   
+}
+
+.owl-stage-outer{
+    width: 1550px !important;
+    height: 500px;
+}
+
+
+
+.owl-dots .owl-dot{
+    text-align: center;
+     width: 10px; 
+     height: 10px;  
+    
+    background-image: url("images/carouselimages/carousel-navigation-button-images/2/2.png");
+
+    background-size: cover !important;
+    background-position: center !important;
+
+}
+
+.owl-dot {
+    display: inline-block;
+    
+   
+    background-size: cover;
+    background-position: center;
+    margin: 5px;
+    border-radius: 50%;
+    cursor: pointer;
+    
+}
+/* .owl-dot.active {
+    background: #000;
+} */
+
+
+ /* .owl-dots .owl-dot:nth-child(n+4) {
+    display: none;
+} */
+
+ 
+
+
+
+
+
