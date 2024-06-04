@@ -157,7 +157,7 @@
     left: 375px;
     width: 72px;
     height: 72px;
-    background: transparent url('images/whywearebestimages/1/1.png') 0% 0% no-repeat padding-box;
+    background: transparent url('/images/whywearebestimages/1/1.png') 0% 0% no-repeat padding-box;
     opacity: 1;
     }
     
@@ -167,7 +167,7 @@
     left: 680px;
     width: 70px;
     height: 65px;
-    background: transparent url('images/whywearebestimages/2/2.png') 0% 0% no-repeat padding-box;
+    background: transparent url('/images/whywearebestimages/2/2.png') 0% 0% no-repeat padding-box;
     opacity: 1;
     
     }
@@ -180,7 +180,7 @@
     width: 68px;
     height: 75px;
     /* UI Properties */
-    background: transparent url('images/whywearebestimages/3/3.png') 0% 0% no-repeat padding-box;
+    background: transparent url('/images/whywearebestimages/3/3.png') 0% 0% no-repeat padding-box;
     opacity: 1;
         
     }
@@ -192,7 +192,7 @@
     width: 70px;
     height: 70px;
     /* UI Properties */
-    background: transparent url('images/whywearebestimages/4/4.png') 0% 0% no-repeat padding-box;
+    background: transparent url('/images/whywearebestimages/4/4.png') 0% 0% no-repeat padding-box;
     opacity: 1;
     
         
